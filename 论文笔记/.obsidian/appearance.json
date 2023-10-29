@@ -1,3 +1,7 @@
 {
-  "accentColor": ""
+  "accentColor": "#5d35bb",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Consolas",
+  "translucency": true,
+  "baseFontSize": 15
 }

@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "8f2d06d85330f0a7",
+        "id": "05a4d7d43f94b6b8",
         "type": "tabs",
         "children": [
           {
-            "id": "938bb43f9c9c1c0b",
+            "id": "cf33eaf4a2947178",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "最优化笔记/拉格朗日理论/拉格朗日乘子理论.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78bba6e4909cf41d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "最优化笔记/拉格朗日理论/拉格朗日乘子理论.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,6 +89,38 @@
     "type": "split",
     "children": [
       {
+        "id": "497b4578fb626b88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e46a500b79ea3cb3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "最优化笔记/拉格朗日理论/拉格朗日乘子理论.md"
+              }
+            }
+          },
+          {
+            "id": "61c3d106300d5857",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e759224c3100113",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "4231449ef64bbbaf",
         "type": "tabs",
         "children": [
@@ -81,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "最优化笔记/拉格朗日理论/拉格朗日乘子理论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "最优化笔记/拉格朗日理论/拉格朗日乘子理论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,21 +163,12 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "e46a500b79ea3cb3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -135,9 +177,21 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "938bb43f9c9c1c0b",
-  "lastOpenFiles": []
+  "active": "78bba6e4909cf41d",
+  "lastOpenFiles": [
+    "最优化笔记/拉格朗日理论/灵敏度定理证明.md",
+    "最优化笔记/拉格朗日理论/拉格朗日乘子理论.md",
+    "最优化笔记/拉格朗日理论/一阶必要条件的证明.md",
+    "Resource Schedule.md",
+    "最优化笔记/拉格朗日理论/鞍点.jpg",
+    "最优化笔记/拉格朗日理论/pic_sample.png",
+    "凸优化笔记/拉格朗日理论/pic_sample.png.crdownload",
+    "最优化笔记/拉格朗日理论",
+    "最优化笔记"
+  ]
 }

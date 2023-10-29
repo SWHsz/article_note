@@ -1,1 +1,6 @@
-{}
+{
+  "showLineNumber": true,
+  "autoPairMarkdown": false,
+  "spellcheck": false,
+  "alwaysUpdateLinks": true
+}
