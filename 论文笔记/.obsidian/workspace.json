@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf33eaf4a2947178",
+            "id": "78bba6e4909cf41d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "78bba6e4909cf41d",
+            "id": "674fe4bb1d9ace55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "最优化笔记/拉格朗日理论/拉格朗日乘子理论.md",
+                "file": "最优化笔记/凸函数的定义.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8fe50e3b333f0b9b",
@@ -98,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "最优化笔记/拉格朗日理论/拉格朗日乘子理论.md"
+                "file": "最优化笔记/凸函数的定义.md"
               }
             }
           },
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "最优化笔记/拉格朗日理论/拉格朗日乘子理论.md",
+                "file": "最优化笔记/凸函数的定义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "最优化笔记/拉格朗日理论/拉格朗日乘子理论.md",
+                "file": "最优化笔记/凸函数的定义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,11 +184,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78bba6e4909cf41d",
+  "active": "674fe4bb1d9ace55",
   "lastOpenFiles": [
-    "最优化笔记/拉格朗日理论/灵敏度定理证明.md",
     "最优化笔记/拉格朗日理论/拉格朗日乘子理论.md",
     "最优化笔记/拉格朗日理论/一阶必要条件的证明.md",
+    "最优化笔记/拉格朗日理论/灵敏度定理证明.md",
+    "最优化笔记/凸函数的定义.md",
+    "FL的传输过程/Scheduling Policies for Federated Learning in Wireless Networks.md",
+    "Pasted image 20231029211328.png",
+    "创新点猜想.md",
+    "FL的传输过程",
+    "新建文件夹",
     "Resource Schedule.md",
     "最优化笔记/拉格朗日理论/鞍点.jpg",
     "最优化笔记/拉格朗日理论/pic_sample.png",
